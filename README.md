@@ -8,3 +8,6 @@ Install requirements
 start project
 
 ```python3 main.py```
+
+
+https://img.shields.io/bundlephobia/min/fd
