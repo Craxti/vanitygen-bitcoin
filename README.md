@@ -10,4 +10,4 @@ start project
 ```python3 main.py```
 
 
-https://img.shields.io/bundlephobia/min/fd
+![npm bundle size](https://img.shields.io/bundlephobia/min/fd)
